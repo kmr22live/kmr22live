@@ -30,6 +30,7 @@
 
 </p>
 <br />
+<!-- About Section -->
 
 <!-- About Section -->
  # About me
